@@ -1,6 +1,6 @@
 {
   "$schema": "./source/schema.json",
-  "family_name": "Maple Mono IceLolly SC NF",
+  "family_name": "Maple Mono",
   "use_hinted": false,
   "pool_size": 4,
   "enable_ligature": false,
